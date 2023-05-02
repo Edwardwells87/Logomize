@@ -1,0 +1,30 @@
+{
+  "type": "module",
+  "dependencies": {
+    "init": "^0.1.2",
+    "inquirer": "^8.2.4"
+    
+  },
+  "name": "logomize",
+  "description": "SVG Logo Maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {"jest": "^29.5.0"},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edwardwells87/Logomize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edwardwells87/Logomize/issues"
+  },
+  "homepage": "https://github.com/Edwardwells87/Logomize#readme"
+}
