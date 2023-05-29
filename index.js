@@ -33,11 +33,12 @@ function LogoMaker() {
       }
     ])
     .then((answers) => {
-      console.log('wtf is going on---------')
+      console.log(answers)
        return Promise.all([
-        new InitialsLength(answers), 
+        new InitialsLength(answers),
        new Colors(answers),
        new ShapeMaker(answers),
+       
       ])
 })
    // }
