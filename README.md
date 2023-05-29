@@ -2,10 +2,10 @@
 
 This is a simple SVG logo designer for someone who wants a simple SVG graphic. Its capable of producing several different shapes and and can accept up to 3 letters inside of the shape. 
 
-![Screen Shot](./images/365WeatherScreenShot.png)
+![Screen Shot](./Assets/Logomizescreenshot.png)
 
 ## Features 
-- **make a shape:** Logomize is capable of making 3 whole shapes. wow. 
+- **Make a Shape:** Logomize is capable of making 3 whole shapes. wow. 
 
 - **Put Letters in it** You can stuff up to 3 entire letters in that shape. Amazing
 
